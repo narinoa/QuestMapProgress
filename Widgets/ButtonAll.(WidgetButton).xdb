@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>ButtonAll</Name>
+	<Header>
+		<Prototype href="/Mods/SampleCommon/Button/ButtonRegular.Prototype.(WidgetButton).xdb" />
+	</Header>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>170</Size>
+			<Pos>90</Pos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_HIGH</Align>
+			<HighPos>30</HighPos>
+			<Size>30</Size>
+		</Y>
+	</Placement>
+		<Enabled>true</Enabled>
+	<Variants>
+		<Item>
+			<Reaction>ButtonFindAll</Reaction>
+			<TextFileRef href="Button.txt" />
+		</Item>
+	</Variants>
+	
+</WidgetButton>

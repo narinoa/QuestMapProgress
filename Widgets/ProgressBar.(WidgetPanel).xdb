@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>ProgressBar</Name>
+	<Children>
+	<Item href="Bar.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+	</Children>
+    <BackLayer href="Textures/Progress.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture) " />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>350</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>35</Size>
+			<Pos>48</Pos>
+		</Y>
+	</Placement>
+</WidgetPanel>

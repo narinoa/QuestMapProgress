@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetLayerTiledTexture>
+	<Color>0xffffffff</Color>
+	<Grayed>false</Grayed>
+	<BlendEffect>BLEND_EFFECT_ALPHABLND</BlendEffect>
+	<flatPlacement>false</flatPlacement>
+	<textureItem href= "/Interface/Ingame/ContextSplitstack/TiledBackLayer.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+	<Layout>
+		<LeftX>25</LeftX>
+		<MiddleX>110</MiddleX>
+		<RightX>25</RightX>
+		<TopY>25</TopY>
+		<MiddleY>110</MiddleY>
+		<BottomY>25</BottomY>
+	</Layout>
+</WidgetLayerTiledTexture>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetLayerTiledTexture>
+	<Color>0xffffffff</Color>
+	<Grayed>false</Grayed>
+	<BlendEffect>BLEND_EFFECT_ALPHABLND</BlendEffect>
+	<flatPlacement>false</flatPlacement>
+	<textureItem href="Progress.(UISingleTexture).xdb" />
+	<Layout>
+		<LeftX>30</LeftX>
+		<MiddleX>104</MiddleX>
+		<RightX>30</RightX>
+		<TopY>15</TopY>
+		<MiddleY>18</MiddleY>
+		<BottomY>15</BottomY>
+	</Layout>
+</WidgetLayerTiledTexture>

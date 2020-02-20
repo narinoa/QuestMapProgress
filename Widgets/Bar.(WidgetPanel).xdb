@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Priority>120</Priority>
+	<Name>Bar</Name>
+	<Children>
+	</Children>
+	<BackLayer href="Textures/Empty.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>0</Size>
+			<Pos>30</Pos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>17</Size>
+			<Pos>9</Pos>
+		</Y>
+	</Placement>
+	<TransparentInput>true</TransparentInput>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+</WidgetPanel>

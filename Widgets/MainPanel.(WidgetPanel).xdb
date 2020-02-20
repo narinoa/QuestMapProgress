@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>MainPanel</Name>
+	<Children>
+	<Item href="Button.(WidgetButton).xdb" /> 
+	<Item href="ButtonAll.(WidgetButton).xdb" /> 
+	<Item href="Window.(WidgetPanel).xdb" /> 
+	<Item href="ButtonCornerCross.(WidgetButton).xdb" /> 
+	</Children>
+	<BackLayer href="Textures/MainFrame.(WidgetLayerTiledTexture).xdb" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>400</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>220</Size>
+		</Y>
+	</Placement>
+</WidgetPanel>

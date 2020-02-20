@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>ProgressTexture</Name>
+	<Children>
+	</Children>
+    <BackLayer href="Textures/Progress.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture) " />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>350</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>40</Size>
+		</Y>
+	</Placement>
+</WidgetPanel>

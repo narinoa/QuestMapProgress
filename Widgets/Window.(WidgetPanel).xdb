@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>Window</Name>
+	<Priority>1</Priority>
+	<Children>
+	<Item href="Text.(WidgetTextView).xdb" /> 
+	<Item href="Desc.(WidgetTextView).xdb" /> 
+	<Item href="ProgressBar.(WidgetPanel).xdb" /> 
+	</Children>
+	<BackLayer href="Textures/GroupFrame.(WidgetLayerTiledTexture).xdb" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Pos>18</Pos>
+			<Size>366</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Pos>18</Pos>
+			<Size>180</Size>
+		</Y>
+	</Placement>
+	<Visible>true</Visible>
+	<TransparentInput>true</TransparentInput>
+</WidgetPanel>
